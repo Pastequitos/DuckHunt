@@ -1,6 +1,6 @@
 # DuckHunt
 
-![logo.ico](https://raw.githubusercontent.com/Pastequitos/DuckHunt/main/assets/logo.ico)
+![logo.ico](https://raw.githubusercontent.com/Pastequitos/DuckHunt/master/media/logo.ico)
 
 ## Overview
 
